@@ -1,0 +1,38 @@
+# ESTRUCTURA DEL REPOSITORIO
+
+- Repositorio
+    - Master
+        - Información General
+            - Gestión de Repositorio
+            - Material de la catedra
+                - Bibliografia
+        - Teorico
+            - Unidad 1
+            - Unidad 2
+				- Material de Lectura
+            - Unidad 3
+            - Unidad 4
+        - Práctico
+            - Trabajos Evaluables
+                - Trabajo 1
+                - Trabajo 4
+                - Trabajo 5
+                - Trabajo 6
+                    - Documentacion
+                    - Codigo Fuente
+                - Trabajo 7
+                - Trabajo 8
+                - Trabajo 12
+                - Trabajo 13
+                - Trabajo 14
+            - Trabajos No Evaluables
+                - Trabajo 2
+                - Trabajo 3
+                - Trabajo 9
+                - Trabajo 10
+                - Trabajo 11
+            - Trabajos Conceptuales
+                - Trabajo 1
+                - Trabajo 2
+                - Trabajo 3
+
