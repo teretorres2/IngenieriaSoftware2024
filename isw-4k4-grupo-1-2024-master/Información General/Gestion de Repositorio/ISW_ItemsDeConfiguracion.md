@@ -5,12 +5,9 @@
 | Estructura del Repositorio                | ISW_EstructuraRepositorio.md                            | [url_repo]/Información General/Gestion de Repositorio                                            |
 | Listado de Items de Configuración         | ISW_ItemsDeConfiguracion.md                             | [url_repo]/Información General/Gestion de Repositorio                                            |
 | Definicion de Linea Base                  | ISW_DefinicionDeLineaBase.md                            | [url_repo]/Información General/Gestion de Repositorio                                            |
-| Protocolo para rendir exámenes finales    | ISW_ProtocoloExamenFinal.pdf                            | [url_repo]/Información General/Material%20de%20Catedra                                           |
 | Bibliografia recomendada                  | ISW_Bibliografia.pdf                                    | [url_repo]/Información General/Material%20de%20Catedra                                           |
-| Protocolos para rendir exámenes parciales | ISW_ProtocoloExamenParcial.pdf                          | [url_repo]/Información General/Material%20de%20Catedra                                           |
 | Material de Apoyo Para rendir Parciales   | ISW_MaterialApoyoParciales.pdf                          | [url_repo]/Información General/Material%20de%20Catedra                                           |
-| Modalidad Académica                       | ISW_ModalidadAcademica.pdf                              | [url_repo]/Información General/Material%20de%20Catedra                                           |
-| Herramientas presentación información     | ISW_HerramientasPresentacionInformacion.pdf             | [url_repo]/Información General/Material%20de%20Catedra                                           |                         
+| Modalidad Académica                       | ISW_ModalidadAcademica.pdf                              | [url_repo]/Información General/Material%20de%20Catedra                                           |               
 | Guia de ejercicios resueltos              | ISW_GuiaTrabajosPracticosResueltos.pdf                  | [url_repo]/Información General/Material%20de%20Catedra                                           |
 | Introducción a la Materia                 | ISW_IntroduccionMateria.pdf                             | [url_repo]/Información General/Material%20de%20Catedra                                           |
 | Enunciado Trabajos Prácticos              | ISW_EnunciadoTrabajoPractico.pdf                        | [url_repo]/Práctico                                                                              |
