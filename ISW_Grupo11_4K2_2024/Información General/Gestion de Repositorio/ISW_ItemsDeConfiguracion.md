@@ -34,4 +34,4 @@
 | [NombreArchivo] | Nombre del libro / paper / tema que trata el material compartido.                                                                              |
 | [Orden]         | Número de orden de visualización de los archivos                                                                                               |
 | [Nro]           | Numero de Parcial                                                                                                                              |
-| [url_repo]      | [https://github.com/teretorres2/IngenieriaSoftware2024/tree/master/ISW_Grupo11_4K3_2024](https://github.com/teretorres2/IngenieriaSoftware2024/tree/master/ISW_Grupo11_4K2_2024) |
+| [url_repo]      | [https://github.com/teretorres2/IngenieriaSoftware2024/tree/master/ISW_Grupo11_4K2_2024](https://github.com/teretorres2/IngenieriaSoftware2024/tree/master/ISW_Grupo11_4K2_2024) |
