@@ -13,7 +13,7 @@
 | Enunciado Trabajos Prácticos              | ISW_EnunciadoTrabajoPractico.pdf                        | [url_repo]/Práctico                                                                              |
 | Enunciado Trabajo Práctico Evaluable      | ISW_EnunciadoTrabajoPractico[Nro_Trabajo].pdf           | [url_repo]/Práctico/Trabajos%20Practicos%20Evaluables/Trabajo%20[Nro_Trabajo]                    |
 | Hoja de Estilo                            | ISW_StyleGuideVueJS.pdf                                 | [url_repo]/Práctico/Trabajos%20Practicos%20No%20Evaluables/Trabajo%20[Nro_Trabajo]/Documentación |
-| Correccion TP                             | ISW_Grupo_1_TP[Nro_Trabajo].jpg                         | [url_repo]/Práctico/Trabajos%20Practicos%20Evaluables/Trabajo%20[Nro_Trabajo]                    |
+| Correccion TP                             | ISW_Grupo_11_TP[Nro_Trabajo].jpg                         | [url_repo]/Práctico/Trabajos%20Practicos%20Evaluables/Trabajo%20[Nro_Trabajo]                    |
 | Enunciado Trabajo Práctico No Evaluable   | ISW_EnunciadoTrabajoPractico[Nro_Trabajo].pdf           | [url_repo]/Práctico/Trabajos%20Practicos%20No%20Evaluables/Trabajo%20[Nro_Trabajo]               |
 | Lineamiento Trabajos Conceptuales         | ISW_LineamientosTrabajosConceptuales.pdf                | [url_repo]/Práctico                                                                              |
 | Template para parciales                   | ISW_TemplateParcial[Nro].docx                           | [url_repo]/Información General/Material%20de%20Catedra                                           |
