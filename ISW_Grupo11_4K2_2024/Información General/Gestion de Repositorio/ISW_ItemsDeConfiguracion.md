@@ -15,7 +15,8 @@
 | Hoja de Estilo                            | ISW_HojaDeEstilo_[NombreArchivo].pdf                                 | [url_repo]/Práctico/Trabajos%20Practicos%20No%20Evaluables/Trabajo%20[Nro_Trabajo]/Documentación |
 | Correccion TP                             | ISW_Grupo_11_TP[Nro_Trabajo].jpg                         | [url_repo]/Práctico/Trabajos%20Practicos%20Evaluables/Trabajo%20[Nro_Trabajo]                    |
 | Enunciado Trabajo Práctico No Evaluable   | ISW_EnunciadoTrabajoPractico[Nro_Trabajo].pdf           | [url_repo]/Práctico/Trabajos%20Practicos%20No%20Evaluables/Trabajo%20[Nro_Trabajo]               |
-| Lineamiento Trabajos Conceptuales         | ISW_LineamientosTrabajosConceptuales.pdf                | [url_repo]/Práctico                                                                              |
+| Lineamiento Trabajos Conceptuales         | ISW_LineamientosTrabajosConceptuales.pdf                | [url_repo]/Práctico
+| Trabajo de Investigación Grupal           | Grupo 11 - Trabajo de Investigación Grupal [Nro_Trabajo]| [url repo]/Práctico/Trabajos Conceptuales/Trabajo%20[Nro_Trabajo]
 | Template para parciales                   | ISW_TemplateParcial[Nro].docx                           | [url_repo]/Información General/Material%20de%20Catedra                                           |
 | Template Caso de Prueba - Caja Negra      | ISW_TemplateCasoDePrueba.dotx                           | [url_repo]/Información General/Material%20de%20Catedra                                           |
 | Libros Recomendados                       | ISW_Libro\_[NombreArchivo].[Extensión]                  | [url_repo]/Informacion%20General/Material%20de%20Catedra/Bibliografía                            |
