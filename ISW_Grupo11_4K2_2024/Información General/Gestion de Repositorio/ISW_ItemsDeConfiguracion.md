@@ -13,7 +13,8 @@
 | Enunciado Trabajos Prácticos              | ISW_EnunciadoTrabajoPractico.pdf                        | [url_repo]/Práctico                                                                              |
 | Enunciado Trabajo Práctico Evaluable      | ISW_EnunciadoTrabajoPractico[Nro_Trabajo].pdf           | [url_repo]/Práctico/Trabajos%20Practicos%20Evaluables/Trabajo%20[Nro_Trabajo]                    |
 | Hoja de Estilo                            | ISW_HojaDeEstilo_[NombreArchivo].pdf                                 | [url_repo]/Práctico/Trabajos%20Practicos%20No%20Evaluables/Trabajo%20[Nro_Trabajo]/Documentación |
-| Correccion TP                             | ISW_Grupo_11_TP[Nro_Trabajo].jpg                         | [url_repo]/Práctico/Trabajos%20Practicos%20Evaluables/Trabajo%20[Nro_Trabajo]                    |
+| Correccion TP                             | Correccion Grupo 11 TP N°[Nro_Trabajo] - [Nombre].jpg   | [url_repo]/Práctico/Trabajos%20Practicos%20Evaluables/Trabajo%20[Nro_Trabajo]                    |
+| Corrección TIG                            | Correccion Grupo 11 TIG N°[Nro_Trabajo]- [Tema].jpg    |    | [url_repo]/Práctico/Trabajos%20Conceptuales/Trabajo%20[Nro_Trabajo]/Correccion%20Grupo%2011%20TIG%20N°[Nro_Trabajo]%20-%20[Tema].jpg|
 | Enunciado Trabajo Práctico No Evaluable   | ISW_EnunciadoTrabajoPractico[Nro_Trabajo].pdf           | [url_repo]/Práctico/Trabajos%20Practicos%20No%20Evaluables/Trabajo%20[Nro_Trabajo]               |
 | Lineamiento Trabajos Conceptuales         | ISW_LineamientosTrabajosConceptuales.pdf                | [url_repo]/Práctico
 | Trabajo de Investigación Grupal           | Grupo 11 - Trabajo de Investigación Grupal N°[Nro_Trabajo] - [Tema].pdf| [url repo]/Práctico/Trabajos Conceptuales/Trabajo%20[Nro_Trabajo]
